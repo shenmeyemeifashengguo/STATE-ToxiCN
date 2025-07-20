@@ -40,7 +40,7 @@
 https://tianchi.aliyun.com/competition/entrance/532298/informationhttps://tianchi.aliyun.com/competition/entrance/532298/information
 
 ## Poster
-![poster_original](https://github.com/user-attachments/files/21333740/STATE.pdf)
+![poster_original](https://github.com/user-attachments/assets/08c7048a-1dfe-42a9-b25b-dbdd5fe8f8f6)
 
 ## Ethical Statement
 **The ownership of the dataset belongs to the Information Retrieval Research Laboratory of Dalian University of Technology. The dataset contains examples of harmful and non-compliant content, which do not represent the stance of our team.**
