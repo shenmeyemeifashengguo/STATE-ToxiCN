@@ -39,6 +39,9 @@
 **Our dataset will be available on the Tianchi open evaluation platform. We welcome everyone to participate in discussions.**
 https://tianchi.aliyun.com/competition/entrance/532298/informationhttps://tianchi.aliyun.com/competition/entrance/532298/information
 
+## Poster
+<img src="STATE.pdf" alt="示例图片" />
+
 ## Ethical Statement
 **The ownership of the dataset belongs to the Information Retrieval Research Laboratory of Dalian University of Technology. The dataset contains examples of harmful and non-compliant content, which do not represent the stance of our team.**
 
