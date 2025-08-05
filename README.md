@@ -44,29 +44,51 @@ https://tianchi.aliyun.com/competition/entrance/532298/informationhttps://tianch
 
 ## How to Cite
 @inproceedings{bai-etal-2025-state,
+
     title = "{STATE} {T}oxi{CN}: A Benchmark for Span-level Target-Aware Toxicity Extraction in {C}hinese Hate Speech Detection",
+    
     author = "Bai, Zewen  and
+    
       Yang, Liang  and
+      
       Yin, Shengdi  and
+      
       Lu, Junyu  and
+      
       Zeng, Jingjie  and
+      
       Zhu, Haohao  and
+      
       Sun, Yuanyuan  and
+      
       Lin, Hongfei",
+      
     editor = "Che, Wanxiang  and
+    
       Nabende, Joyce  and
+      
       Shutova, Ekaterina  and
+      
       Pilehvar, Mohammad Taher",
+      
     booktitle = "Findings of the Association for Computational Linguistics: ACL 2025",
+    
     month = jul,
+    
     year = "2025",
+    
     address = "Vienna, Austria",
+    
     publisher = "Association for Computational Linguistics",
+    
     url = "https://aclanthology.org/2025.findings-acl.532/",
+    
     doi = "10.18653/v1/2025.findings-acl.532",
+    
     pages = "10206--10219",
+    
     ISBN = "979-8-89176-256-5",
-    abstract = "The proliferation of hate speech has caused significant harm to society. The intensity and directionality of hate are closely tied to the target and argument it is associated with. However, research on hate speech detection in Chinese has lagged behind, and existing datasets lack span-level fine-grained annotations. Furthermore, the lack of research on Chinese hateful slang poses a significant challenge. In this paper, we provide two valuable fine-grained Chinese hate speech detection research resources. First, we construct a Span-level Target-Aware Toxicity Extraction dataset (STATE ToxiCN), which is the first span-level Chinese hate speech dataset. Secondly, we evaluate the span-level hate speech detection performance of existing models using STATE ToxiCN. Finally, we conduct the first study on Chinese hateful slang and evaluate the ability of LLMs to understand hate semantics. Our work contributes valuable resources and insights to advance span-level hate speech detection in Chinese."
+    
 }
 
 
