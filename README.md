@@ -43,54 +43,32 @@ https://tianchi.aliyun.com/competition/entrance/532298/informationhttps://tianch
 ![poster_original](https://github.com/user-attachments/assets/08c7048a-1dfe-42a9-b25b-dbdd5fe8f8f6)
 
 ## How to Cite
+~~~
 @inproceedings{bai-etal-2025-state,
-
     title = "{STATE} {T}oxi{CN}: A Benchmark for Span-level Target-Aware Toxicity Extraction in {C}hinese Hate Speech Detection",
-    
     author = "Bai, Zewen  and
-    
       Yang, Liang  and
-      
       Yin, Shengdi  and
-      
       Lu, Junyu  and
-      
       Zeng, Jingjie  and
-      
       Zhu, Haohao  and
-      
       Sun, Yuanyuan  and
-      
       Lin, Hongfei",
-      
     editor = "Che, Wanxiang  and
-    
       Nabende, Joyce  and
-      
       Shutova, Ekaterina  and
-      
       Pilehvar, Mohammad Taher",
-      
     booktitle = "Findings of the Association for Computational Linguistics: ACL 2025",
-    
-    month = jul,
-    
+    month = jul, 
     year = "2025",
-    
     address = "Vienna, Austria",
-    
     publisher = "Association for Computational Linguistics",
-    
     url = "https://aclanthology.org/2025.findings-acl.532/",
-    
     doi = "10.18653/v1/2025.findings-acl.532",
-    
     pages = "10206--10219",
-    
     ISBN = "979-8-89176-256-5",
-    
 }
-
+~~~
 
 ## Ethical Statement
 **The ownership of the dataset belongs to the Information Retrieval Research Laboratory of Dalian University of Technology. The dataset contains examples of harmful and non-compliant content, which do not represent the stance of our team.**
