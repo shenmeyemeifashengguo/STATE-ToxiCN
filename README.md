@@ -34,7 +34,7 @@
   - Single elements
 
 ## Other Links
-**Paper：** http://arxiv.org/abs/2501.15451v3
+**Paper：** https://aclanthology.org/2025.findings-acl.532/
 
 **Our dataset will be available on the Tianchi open evaluation platform. We welcome everyone to participate in discussions.**
 https://tianchi.aliyun.com/competition/entrance/532298/informationhttps://tianchi.aliyun.com/competition/entrance/532298/information
